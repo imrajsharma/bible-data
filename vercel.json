@@ -1,0 +1,14 @@
+{
+    "headers": [
+      {
+        "source": "/bible-version/(.*)",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      }
+    ]
+  }
+  
