@@ -1,0 +1,19 @@
+{
+    "verses": [
+      {
+        "book_name": "Genesis",
+        "book": 1,
+        "chapter": 1,
+        "verse": 1,
+        "text": "In the begynnynge God created heaven and erth. (Coverdale)"
+      },
+      {
+        "book_name": "Genesis",
+        "book": 1,
+        "chapter": 1,
+        "verse": 2,
+        "text": "The erth was voyde and emptie, and darcknes was vpon the depe, and the sprete of God moued vpon the water. (Coverdale)"
+      }
+    ]
+  }
+  
