@@ -1,0 +1,19 @@
+{
+    "verses": [
+      {
+        "book_name": "Genesis",
+        "book": 1,
+        "chapter": 1,
+        "verse": 1,
+        "text": "In the beginning God created ye heauen and the earth. (Geneva)"
+      },
+      {
+        "book_name": "Genesis",
+        "book": 1,
+        "chapter": 1,
+        "verse": 2,
+        "text": "And ye earth was without forme and voyde, and darkenes [was] vpon ye depe, and ye Spirit of God moued vpon ye waters. (Geneva)"
+      }
+    ]
+  }
+  
